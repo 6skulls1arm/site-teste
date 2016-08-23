@@ -27,7 +27,7 @@ body{
     float: left;
     background-color: red;
     width: 150px;
-    height: 100px;
+    height: 500px;
     border: 1px solid blue;
     border-radius: 5px;
     padding: 0px;
@@ -39,7 +39,7 @@ body{
     right: 0px;
     background-color: greenyellow;
     width: 860px;
-    height: 100px;
+    height: 500px;
     border: 1px solid blue;
     border-radius: 5px;
     padding: 0px;
