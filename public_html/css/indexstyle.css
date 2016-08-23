@@ -9,8 +9,9 @@ body{
     height: 600px;
     border: 2px solid red;
     border-radius: 5px;
+    margin: 0 auto;
+    position: relative;
     padding: 5px;
-    margin: 5px;
 }
 
 .header{
