@@ -3,7 +3,7 @@ body{
     padding: 0;   
 }
 
-.fullpage{
+#fullpage{
     background-color: linen;
     width: 100%;
     height: 100%;
@@ -13,7 +13,7 @@ body{
     margin: 0px;
 }
 
-.conteiner{
+#conteiner{
     background-color: lightblue;
     width: 1024px;
     height: 600px;
@@ -24,7 +24,7 @@ body{
     padding: 0px;
 }
 
-.header{
+#header{
     background-color: yellow;
     width: 1022px;
     height: 100px;
@@ -34,7 +34,7 @@ body{
     margin: 0px;
 }
 
-.leftclm{
+#leftclm{
     float: left;
     background-color: red;
     width: 150px;
@@ -45,7 +45,7 @@ body{
     margin: 0px;
 }
 
-.mainbox{
+#mainbox{
     float: right;
     right: 0px;
     background-color: greenyellow;
@@ -57,7 +57,7 @@ body{
     margin: 0px;
 }
 
-.footer{
+#footer{
     width: 100%;
     height: 100px;
     background-color: lightgray;
